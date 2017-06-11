@@ -1,0 +1,41 @@
+.dice-container {
+    height: 2em;
+    width: 2em;  
+    float: left;
+    top: 15px;
+    left: 0px;
+    position: relative;
+    margin: .2em;
+    border: 1px solid black;
+}
+
+#generate-die {
+    position: fixed;
+    top: 2px;
+    left:5px;
+}
+
+#roll-die {
+    position: fixed;
+    top: 2px;
+    left: 95px;
+}
+
+.container {
+    background-color:white;   
+    height: 2.2em;
+    width: 2.2em; 
+    float:left;
+}
+
+div {
+    font-size: 70px;
+    text-align: center;
+    line-height: 116px;
+}
+
+#sum-button {
+    position: fixed;
+    top: 2px;
+    left: 160px;
+}
